@@ -10,4 +10,4 @@ Utilized Hibernate that automatically created tables to provide a better support
 Implemented security workflow via in-memory and JDBC authentication provided by Spring Security.
 
 Demo:
-Project Demo Link: https://vimeo.com/561490763/7ce7de1d38
+Project Demo Link: https://vimeo.com/581691942
